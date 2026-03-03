@@ -77,10 +77,6 @@ Follow these steps to deploy your microservice application:
      incase it is not attached by default
    - Your AmazonEKSNodeRole will look like this: 
 
-<p align="center">
-  <img src="./Project documentation/node_iam.png" width="600" title="Node_IAM" alt="Node_IAM">
-  </p>
-
 4. **Open EKS Dashboard:**
    - Navigate to the Amazon EKS service from the AWS Console dashboard.
 
